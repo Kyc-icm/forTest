@@ -1,6 +1,6 @@
 # forTest
 
-testing repo
+testing repo schedule
 -------------
 
 | week | nick name | role | check-point |
