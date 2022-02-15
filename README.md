@@ -1,6 +1,9 @@
 # forTest
+=============
 testing repo
+-------------
 
-team leader : 토으
-
-back-end main dev : 노더
+| week | nick name | role | check-point |
+| -- | ------ | ----------- | -- |
+| 1 | 토으 | pm , front dev | ☑️ |
+| 1 | 노더 | backend dev | ☑️ |
